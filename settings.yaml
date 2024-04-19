@@ -1,0 +1,17 @@
+settings_version: 0.0.4
+datasets_dir: C:\\Users\王駿彥\\Desktop\\1122-Machine-Learning-Mid-Project
+weights_dir: weights
+runs_dir: runs
+uuid: f15fb6f5e20f1a65d8215bd22fc2cea3806fa95117fca7a041b8c4f6c8558b07
+sync: true
+api_key: ''
+openai_api_key: ''
+clearml: true
+comet: true
+dvc: true
+hub: true
+mlflow: true
+neptune: true
+raytune: true
+tensorboard: true
+wandb: true
