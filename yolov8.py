@@ -3,7 +3,7 @@ model = YOLO("yolov8n.pt")
 if __name__ == '__main__':
     model.train(data="data.yaml",
                 mode="detect",
-                batch=256,
+                batch=-1,
                 epochs=20,
                 imgsz=640,
                 device="0")
