@@ -1,0 +1,17 @@
+settings_version: 0.0.4
+datasets_dir: D:\\04-大學\\01-上課資料\\03-112學年度\\下學期\\機器學習\\02-報告作業\\03-期中專題\\code
+weights_dir: weights
+runs_dir: runs
+uuid: eaae2ee4977bd881d54e1bb82a6bd643f0c6435b21bbfafa109a031552ec40ca
+sync: true
+api_key: ''
+openai_api_key: ''
+clearml: true
+comet: true
+dvc: true
+hub: true
+mlflow: true
+neptune: true
+raytune: true
+tensorboard: true
+wandb: true
