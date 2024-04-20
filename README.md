@@ -16,9 +16,9 @@
 
 ## Model
 ### Pretrain Model
-- YOLO v8
-- YOLO v9
-- YOLO v5
+- YOLO v8n
+- YOLO v9c
+- YOLO v5nu
 
 ## Dataset
 ### [taiwan-license-plate-recognition-research-tlprr Image Dataset](https://universe.roboflow.com/jackresearch0/taiwan-license-plate-recognition-research-tlprr/dataset/7)
