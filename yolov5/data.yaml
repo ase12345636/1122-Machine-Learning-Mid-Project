@@ -1,6 +1,6 @@
-train: D:\Project\MachineLearning\1122-Machine-Learning-Mid-Project\datasets\train\images
-val: D:\Project\MachineLearning\1122-Machine-Learning-Mid-Project\datasets\valid\images
-test: D:\Project\MachineLearning\1122-Machine-Learning-Mid-Project\datasets\test\images
+train: D:/Project/MachineLearning/1122-Machine-Learning-Mid-Project/datasets/train/images
+val: D:/Project/MachineLearning/1122-Machine-Learning-Mid-Project/datasets/valid/images
+test: D:/Project/MachineLearning/1122-Machine-Learning-Mid-Project/datasets/test/images
 
 nc: 1
 names: ['0']
@@ -10,4 +10,4 @@ roboflow:
   project: taiwan-license-plate-recognition-research-tlprr
   version: 4
   license: CC BY 4.0
-  url: https:\\universe.roboflow.com\jackresearch0\taiwan-license-plate-recognition-research-tlprr\dataset\4
+  url: https://universe.roboflow.com/jackresearch0/taiwan-license-plate-recognition-research-tlprr/dataset/4
