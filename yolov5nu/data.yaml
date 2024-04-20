@@ -1,6 +1,13 @@
-train: train/images
-val: valid/images
-test: test/images
+train: datasets/train/images
+val: datasets/valid/images
+test: atasets/test/images
 
 nc: 1
 names: ['0']
+
+roboflow:
+  workspace: jackresearch0
+  project: taiwan-license-plate-recognition-research-tlprr
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/jackresearch0/taiwan-license-plate-recognition-research-tlprr/dataset/4
