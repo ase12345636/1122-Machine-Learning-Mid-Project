@@ -1,5 +1,5 @@
 from ultralytics import YOLO
-model = YOLO('yolov5nu.pt')
+model = YOLO('best.pt')
 
 if __name__ == '__main__':
     model.train(data="data.yaml",
