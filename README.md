@@ -17,6 +17,8 @@
 ## Model
 ### Pretrain Model
 - YOLO v8n
+- YOLO v8x
+- YOLO v3u
 - YOLO v9c
 - YOLO v5nu
 
